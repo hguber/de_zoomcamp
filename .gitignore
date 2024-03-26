@@ -1,2 +1,3 @@
 *.csv
 week1/2_docker_sql/ny_taxi_postgres_data/
+terraform demo
